@@ -1,0 +1,15 @@
+{
+    "name" : "node-web-brief",
+    "description" : "",
+    "version" : "1.0.0",
+    "homepage" : "http://github.com/zhaoweiguo/node-web-brief",
+    "author" : [
+        {
+            "name" : "zhaoweiguo",
+            "email" : "programfan.info@gmail.com"
+        }
+    ],
+    "dependencies" : {
+        "mongoose" : "*"
+    }
+}

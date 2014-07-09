@@ -1,0 +1,8 @@
+
+
+module.exports = {
+    'mongo' : 'mongodb://<user>:<pwd>@<host>/<db>'
+}
+
+
+
